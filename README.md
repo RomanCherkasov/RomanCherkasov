@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://linkedin.com/in/roman-cherkasov-a60a7a234/" target="_blank">Roman</a> 
+<h1 align="center">Hi there, I'm <a href="https://romanche.ru/" target="_blank">Roman</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python / C++ / JS Developer.</h3>
 
