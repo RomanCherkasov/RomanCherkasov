@@ -6,7 +6,7 @@
 
 - 🖥 Favorite language: Python
 - 🎨 Favorite color scheme: Viow Neon
-- ⌨️ Keyboard: Blade Pro with Kalih White switches
+- ⌨️ Keyboard: Keychron K3 v2. Witth Gateron brown low profile switches
 - 🐧 Current OS: Mac OS 12 (But Arch Linux in my ❤️)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=🔨+Technologies:)](https://git.io/typing-svg)
